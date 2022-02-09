@@ -12,7 +12,7 @@ Some times GA is used as the method to solve
 (ja: [巡回セールスマン問題](https://ja.wikipedia.org/wiki/%E5%B7%A1%E5%9B%9E%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%9E%E3%83%B3%E5%95%8F%E9%A1%8C)).
 
 
-## How To Use
+## How to Use
 I coded this program for the class in NITK.
 
 I've not still coded for public version whoever can run.
