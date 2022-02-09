@@ -14,7 +14,7 @@ GA is sometimes used as the method to solve
 
 ## How to Use
 I coded this program for the class in NITK.
-You can read the report I submited .(out/GAapp.tex)
+You can read the report I submited .(out/GAapp.pdf)
 
 I've not still coded for public version whoever can run.
 I'll try soon!
