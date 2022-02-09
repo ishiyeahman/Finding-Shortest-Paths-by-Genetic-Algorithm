@@ -2,9 +2,9 @@
 
 ## For What 
 
-I am interested in Optimazation Problem, Especially Shortest Path Problem. So , I tried to find shortest paths by  [Genetic Algorithm (GA)](https://en.wikipedia.org/wiki/Genetic_algorithm).
+I am interested in Optimazation Problem, Especially Shortest Path Problem. 
 
-(ja:[遺伝的アルゴリズム](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E7%9A%84%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0))
+So, I tried to find shortest paths by  [Genetic Algorithm (GA)](https://en.wikipedia.org/wiki/Genetic_algorithm).(ja:[遺伝的アルゴリズム](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E7%9A%84%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0))
 
 
 Some times GA is used as the method to solve 
@@ -14,6 +14,7 @@ Some times GA is used as the method to solve
 
 ## How To Use
 I coded this program for the class in NITK.
+
 I've not still coded for public version whoever can run.
 I'll try soon!
 
