@@ -40,7 +40,7 @@ Finally, we can get it might be shotest path, but this isn't best though.
 ![30-0(0 025296474360838005)](https://user-images.githubusercontent.com/72023343/153437800-3e75a151-04d2-42cd-84f5-38b34bc34832.png)
 
 
-This is might be good solution. Actually, this path isn't best path, but it was extremely shorter than first generarion.
+This is might be good solution. This path is created by other initial generation. Actually, this path isn't best path, but it was extremely shorter than first generarion.
 ![30-0(0 014954716402028959)](https://user-images.githubusercontent.com/72023343/153438390-e0dd7e5e-ab81-4f46-829f-9736976a4702.png)
 
 
