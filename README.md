@@ -28,7 +28,7 @@ There are various pattern of path route to destination from source.
 * source : lower left
 * destination : upper right
 
-<img src="(https://user-images.githubusercontent.com/72023343/153434609-b876194e-ff4a-4bed-877e-b261b6bb7635.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/72023343/153434609-b876194e-ff4a-4bed-877e-b261b6bb7635.png" width="100" height="100">
 
 ![init-0(0 061068121083690155)](https://user-images.githubusercontent.com/72023343/153434609-b876194e-ff4a-4bed-877e-b261b6bb7635.png)
 ![init-1(0 2091804519224655)](https://user-images.githubusercontent.com/72023343/153436764-213a65f8-7855-4f8f-addc-dec98e6172c9.png)
