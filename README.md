@@ -21,9 +21,9 @@ I'll try soon!
 
 ## Example 
 
-These are intial generaion, around Hitoyoshi city, Kumamoto pref.
+These are the intial generaion of a path route, around Hitoyoshi city, Kumamoto pref.
 
-There are various pattern of route to destination from source.
+There are various pattern of path route to destination from source.
 
 * source : lower left
 * destination : upper right
@@ -35,3 +35,9 @@ There are various pattern of route to destination from source.
 ![init-3(0 10844913213324008)](https://user-images.githubusercontent.com/72023343/153436767-8001c1cb-5a8d-46f6-9f84-f696eb9facbe.png)
 ![init-8(0 11187178872301763)](https://user-images.githubusercontent.com/72023343/153436768-62290c18-1d98-4705-b44e-4dc673c63ce0.png)
 ![init-9(0 19068306890727252)](https://user-images.githubusercontent.com/72023343/153436770-c3f7d88b-095d-4faa-a24e-c5aaa6434ec1.png)
+
+Finally, we can get it might be shotest path.
+
+![30-0(0 025296474360838005)](https://user-images.githubusercontent.com/72023343/153437800-3e75a151-04d2-42cd-84f5-38b34bc34832.png)
+(This is not best shortest path though.)
+
