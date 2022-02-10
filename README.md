@@ -21,6 +21,17 @@ I'll try soon!
 
 ## Example 
 
-these are intial generaion, around Hitoyoshi city, Kumamoto pref.
+These are intial generaion, around Hitoyoshi city, Kumamoto pref.
 
-![init-0(0 061068121083690155)](https://user-images.githubusercontent.com/72023343/153434609-b876194e-ff4a-4bed-877e-b261b6bb7635.png| width=100px)
+There are various pattern of route to destination from source.
+
+* source : lower left
+* destination : upper right
+
+
+![init-0(0 061068121083690155)](https://user-images.githubusercontent.com/72023343/153434609-b876194e-ff4a-4bed-877e-b261b6bb7635.png)
+![init-1(0 2091804519224655)](https://user-images.githubusercontent.com/72023343/153436764-213a65f8-7855-4f8f-addc-dec98e6172c9.png)
+![init-2(0 052003483511486724)](https://user-images.githubusercontent.com/72023343/153436766-7dcb520d-98b4-4f4a-b7c7-a14cbd2a3712.png)
+![init-3(0 10844913213324008)](https://user-images.githubusercontent.com/72023343/153436767-8001c1cb-5a8d-46f6-9f84-f696eb9facbe.png)
+![init-8(0 11187178872301763)](https://user-images.githubusercontent.com/72023343/153436768-62290c18-1d98-4705-b44e-4dc673c63ce0.png)
+![init-9(0 19068306890727252)](https://user-images.githubusercontent.com/72023343/153436770-c3f7d88b-095d-4faa-a24e-c5aaa6434ec1.png)
