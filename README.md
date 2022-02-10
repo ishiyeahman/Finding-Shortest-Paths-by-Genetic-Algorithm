@@ -36,8 +36,11 @@ There are various pattern of path route to destination from source.
 ![init-8(0 11187178872301763)](https://user-images.githubusercontent.com/72023343/153436768-62290c18-1d98-4705-b44e-4dc673c63ce0.png)
 ![init-9(0 19068306890727252)](https://user-images.githubusercontent.com/72023343/153436770-c3f7d88b-095d-4faa-a24e-c5aaa6434ec1.png)
 
-Finally, we can get it might be shotest path.
-
+Finally, we can get it might be shotest path, but this isn't best though.
 ![30-0(0 025296474360838005)](https://user-images.githubusercontent.com/72023343/153437800-3e75a151-04d2-42cd-84f5-38b34bc34832.png)
-(This is not best shortest path though.)
+
+
+This is might be good solution. Actually, this path isn't best path, but it was extremely shorter than first generarion.
+![30-0(0 014954716402028959)](https://user-images.githubusercontent.com/72023343/153438390-e0dd7e5e-ab81-4f46-829f-9736976a4702.png)
+
 
