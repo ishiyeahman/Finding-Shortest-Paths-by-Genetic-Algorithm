@@ -28,13 +28,14 @@ There are various pattern of path route to destination from source.
 * source : lower left
 * destination : upper right
 
+<p float="left">
 <img src="https://user-images.githubusercontent.com/72023343/153434609-b876194e-ff4a-4bed-877e-b261b6bb7635.png" width="300" height="300">
 <img src="https://user-images.githubusercontent.com/72023343/153436764-213a65f8-7855-4f8f-addc-dec98e6172c9.png" width="300" height="300">
 <img src="https://user-images.githubusercontent.com/72023343/153436766-7dcb520d-98b4-4f4a-b7c7-a14cbd2a3712.png" width="300" height="300">
 <img src="https://user-images.githubusercontent.com/72023343/153436767-8001c1cb-5a8d-46f6-9f84-f696eb9facbe.png" width="300" height="300">
 <img src="https://user-images.githubusercontent.com/72023343/153436768-62290c18-1d98-4705-b44e-4dc673c63ce0.png" width="300" height="300">
 <img src="https://user-images.githubusercontent.com/72023343/153436770-c3f7d88b-095d-4faa-a24e-c5aaa6434ec1.png" width="300" height="300">
-
+</p>
 
 Finally, we can get it might be shotest path, but this isn't best though.
 ![30-0(0 025296474360838005)](https://user-images.githubusercontent.com/72023343/153437800-3e75a151-04d2-42cd-84f5-38b34bc34832.png)
