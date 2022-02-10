@@ -29,7 +29,7 @@ There are various pattern of path route to destination from source.
 * destination : upper right
 
 
-![init-0(0 061068121083690155), 50%](https://user-images.githubusercontent.com/72023343/153434609-b876194e-ff4a-4bed-877e-b261b6bb7635.png)
+![init-0(0 061068121083690155), 25%](https://user-images.githubusercontent.com/72023343/153434609-b876194e-ff4a-4bed-877e-b261b6bb7635.png)
 ![init-1(0 2091804519224655)](https://user-images.githubusercontent.com/72023343/153436764-213a65f8-7855-4f8f-addc-dec98e6172c9.png)
 ![init-2(0 052003483511486724)](https://user-images.githubusercontent.com/72023343/153436766-7dcb520d-98b4-4f4a-b7c7-a14cbd2a3712.png)
 ![init-3(0 10844913213324008)](https://user-images.githubusercontent.com/72023343/153436767-8001c1cb-5a8d-46f6-9f84-f696eb9facbe.png)
