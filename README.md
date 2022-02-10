@@ -23,4 +23,4 @@ I'll try soon!
 
 these are intial generaion, around Hitoyoshi city, Kumamoto pref.
 
-![init-0(0 061068121083690155)](https://user-images.githubusercontent.com/72023343/153434609-b876194e-ff4a-4bed-877e-b261b6bb7635.png)
+![init-0(0 061068121083690155)](https://user-images.githubusercontent.com/72023343/153434609-b876194e-ff4a-4bed-877e-b261b6bb7635.png| width=100)
